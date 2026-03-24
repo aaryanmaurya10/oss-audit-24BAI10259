@@ -2,13 +2,13 @@
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
-**Student Name:** [Your Name]
-**Roll Number:** [Your Roll Number]
+**Student Name:** Aaryan Mauya
+**Roll Number:** 24BAI10259
 **Chosen Software:** Git (Licensed under GPL v2)
 
 ---
 
-## 📌 About This Project
+## >> About This Project
 
 This repository is the submission for the **Open Source Audit** capstone project. The project involves a structured audit of **Git** — one of the most widely used open-source tools in the world — covering its origin story, license, Linux footprint, FOSS ecosystem, and a comparison with proprietary alternatives.
 
@@ -16,7 +16,7 @@ The repository contains **five shell scripts** that demonstrate practical Linux 
 
 ---
 
-## 🗂️ Repository Structure
+## >> Repository Structure
 
 ```
 oss-audit-[rollnumber]/
@@ -32,7 +32,7 @@ oss-audit-[rollnumber]/
 
 ---
 
-## 📜 Script Descriptions
+## >> Script Descriptions
 
 ### Script 1 — System Identity Report
 **File:** `script1_system_identity.sh`
@@ -79,7 +79,7 @@ Interactively asks the user three questions about their open-source values, then
 
 ---
 
-## ⚙️ Dependencies
+## >> Dependencies
 
 All scripts are written in **bash** and designed for **Ubuntu / Debian Linux**.
 
@@ -103,12 +103,12 @@ sudo apt install git
 
 ---
 
-## 🚀 How to Run the Scripts
+## >> How to Run the Scripts
 
 ### Step 1 — Clone this repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/aaryanmaurya10/oss-audit-24BAI10259.git
+cd oss-audit-24BAI10259
 ```
 
 ### Step 2 — Make all scripts executable
@@ -169,12 +169,11 @@ Interactive script. You will be prompted to answer 3 questions. Your manifesto w
 
 ---
 
-## 📋 Notes
+## >> Notes
 
 - All scripts have been tested on **Ubuntu 22.04 LTS**
 - Scripts must be run on a Linux system — they will not work on Windows CMD or PowerShell
 - Windows users can use **WSL (Windows Subsystem for Linux)** or a virtual machine
-- Replace `[Your Name]`, `[Your Roll Number]`, and `[your-username]` placeholders before submission
 
 ---
 
@@ -187,5 +186,3 @@ Interactive script. You will be prompted to answer 3 questions. Your manifesto w
 - The Linux Command Line (free book): https://linuxcommand.org
 
 ---
-
-*Submitted as part of the Open Source Software (OSS NGMC) course — VITyarthi*
