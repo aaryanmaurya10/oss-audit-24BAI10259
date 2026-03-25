@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Aaryan Maurya | Roll: 24BAI10259
 # Course: Open Source Software | Software Choice: Git
 # Description: Loops through key system directories and
 #              reports their size, owner, and permissions
@@ -48,9 +48,9 @@ echo "=================================================="
 echo ""
 
 # --- Check Git's config directory and binary location ---
-GIT_CONFIG="$HOME/.gitconfig"    # Git's user-level config file
-GIT_BINARY="/usr/bin/git"        # Git's main executable path
-GIT_SYSTEM_CONFIG="/etc/gitconfig" # Git's system-wide config
+GIT_CONFIG="$HOME/.gitconfig"    
+GIT_BINARY="/usr/bin/git"        
+GIT_SYSTEM_CONFIG="/etc/gitconfig" 
 
 # Check user git config file
 if [ -f "$GIT_CONFIG" ]; then
