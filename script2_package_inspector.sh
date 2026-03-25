@@ -1,14 +1,14 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Aaryan Maurya | Roll: 24BAI10259
 # Course: Open Source Software | Software Choice: Git
 # Description: Checks if a FOSS package is installed,
 #              shows its details, and prints a philosophy note
 # ============================================================
 
 # --- Package to inspect ---
-PACKAGE="git"   # Our chosen open-source software
+PACKAGE="git"
 
 echo "=================================================="
 echo "       FOSS Package Inspector"
